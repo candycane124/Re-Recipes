@@ -1,5 +1,5 @@
 # Re:Recipes -- The Recipe Recommender
-Want to cook but don't know where to start? Use our web app to provide what ingredients you have available and get some recipes recommended for you to try! Check out http://rerecipe.pythonanywhere.com/ or https://devpost.com/software/re-recipes.
+Want to cook but don't know where to start? Use our web app to provide what ingredients you have available and get some recipes recommended for you to try! Check out https://devpost.com/software/re-recipes.
 
 ## Inspiration
 In a world increasingly dominated by food delivery, we recognized the need to promote homecooked meals. Our inspiration for Re:Recipes stems from a desire to encourage healthier eating habits while also decreasing the amount of excessive food waste.
